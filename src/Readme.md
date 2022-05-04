@@ -1,3 +1,13 @@
+# Requirements
+
+```
+- python3+
+- nltk
+- igraph
+- Tensorflow 1.12.0
+- Tensorflow-hub
+```
+
 ## Run the script
 
 ```
